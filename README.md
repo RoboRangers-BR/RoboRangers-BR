@@ -1,9 +1,9 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header" width="100%"/>
+
 <div align="center">
 
-<!-- Logo + Title -->
-<img src="Logo_RR.png" width="120" height="120" alt="Robo Rangers Logo"/>
+<img src="Logo_RR.png" width="200" height="200" alt="Robo Rangers Logo"/>
 
-<br/>
 <br/>
 
 <!-- Badges -->
@@ -88,6 +88,6 @@ robo-rangers/
 
 *Building the future, one brick at a time.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
