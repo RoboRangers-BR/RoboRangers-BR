@@ -30,11 +30,11 @@ From designing and coding autonomous robots to researching meaningful innovation
 
 ### 👾 Team Members
 
-**Guilherme Gon Wiemes**
-**Luis Claudio Rocha**
-**Gabrielli Casanova Zatta**
-**Isabella Leite Pereira**
-**Letícia Melchioretto**
+**Guilherme Gon Wiemes**<br/>
+**Luis Claudio Rocha**<br/>
+**Gabrielli Casanova Zatta**<br/>
+**Isabella Leite Pereira**<br/>
+**Letícia Melchioretto**<br/>
 
 ---
 
@@ -58,7 +58,7 @@ From designing and coding autonomous robots to researching meaningful innovation
 
 ## 🚀 From Joinville to Atlanta
 
-> *We qualified for the **Georgia Ramblin' Robots Tournament** in Atlanta, Georgia — competing on the international stage in June 2026. This represents not just our team, but our city and our country.*
+> *We qualified for the **Georgia Ramblin' Robots Tournament** in Atlanta, Georgia — competing on the international stage in June 2026. Representing not just our team, but our city and our country.*
 
 ---
 
