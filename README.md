@@ -69,7 +69,6 @@ robo-rangers/
 ├── 🤖  robot/          # Autonomous robot code & configurations
 ├── 📋  project/        # Innovation project documentation & research
 ├── 🎯  strategy/       # Mission strategy notes & field maps
-└── 📸  media/          # Team photos, videos, and event galleries
 ```
 
 ---
