@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<br/><br/><br/>
+<br/>
 
 <img src="Logo_RR.png" width="200" height="200" alt="Robo Rangers Logo"/>
 
