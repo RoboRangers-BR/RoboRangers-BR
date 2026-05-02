@@ -29,11 +29,12 @@ From designing and coding autonomous robots to researching meaningful innovation
 **Gilmara dos Santos**
 
 ### 👾 Team Members
-| | |
-|---|---|
-| 🤖 Guilherme Gon Wiemes | 🤖 Luis Cláudio Rocha |
-| 🤖 Gabrielli Casanova Zatta | 🤖 Letícia Melchioretto |
-| 🤖 Isabella Leite Pereira | |
+
+**Guilherme Gon Wiemes**
+**Luis Claudio Rocha**
+**Gabrielli Casanova Zatta**
+**Isabella Leite Pereira**
+**Letícia Melchioretto**
 
 ---
 
