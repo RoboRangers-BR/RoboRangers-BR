@@ -29,7 +29,7 @@ From designing and coding autonomous robots to researching meaningful innovation
 ### 👾 Team Members
 
 **Guilherme Gon Wiemes**<br/>
-**Luis Claudio Rocha**<br/>
+**Luis Claudio da Rocha**<br/>
 **Gabrielli Casanova Zatta**<br/>
 **Isabella Leite Pereira**<br/>
 **Letícia Melchioretto**<br/>
